@@ -17,76 +17,19 @@
 
 I am a Mechanical Engineer focused on **CAD/CAE software development, mechanical design, computational geometry, finite element analysis, topology optimization, and additive manufacturing**.
 
-My work connects **parametric CAD modeling, geometry algorithms, mesh generation, STL processing, lattice structures, simulation-driven design, GPU acceleration, and CAD recovery**. I enjoy building engineering tools that convert design concepts into validated, manufacturable, and simulation-ready geometry.
+My work connects **parametric CAD modeling, geometric algorithms, mesh generation, STL processing, lattice structures, simulation-driven design, GPU acceleration, and CAD recovery**. I enjoy building engineering tools that convert design concepts into validated, manufacturable, and simulation-ready geometry.
 
 ---
 
-## Featured Repositories
+## Core Focus Areas
 
-<table>
-<tr>
-<td width="50%">
-
-### [Finite Element Analysis](https://github.com/aadi1307/Finite-Element-Analysis)
-
-FEA implementation, stiffness matrix assembly, boundary conditions, structural analysis, and simulation fundamentals.
-
-**Focus:** FEA, Python, solvers, engineering simulation
-
-</td>
-<td width="50%">
-
-### [Computer Aided Geometric Design](https://github.com/aadi1307/Computer-Aided-Geometric-Design)
-
-Computational geometry and CAD-related work involving curves, surfaces, B-splines, NURBS, and geometric algorithms.
-
-**Focus:** CAD, geometry, curves, surfaces
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### [GPU Lattice](https://github.com/aadi1307/GPU_Lattice)
-
-CUDA-based lattice generation for additive manufacturing and lightweight geometry creation.
-
-**Focus:** CUDA, C++, lattice structures, AM
-
-</td>
-<td width="50%">
-
-### [High Performance Computing](https://github.com/aadi1307/High-Performance-Computing)
-
-Parallel programming and performance-focused engineering computation.
-
-**Focus:** C++, CUDA, HPC, optimization
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### [Engineering Portfolio](https://github.com/aadi1307/aadi1307.github.io)
-
-Portfolio website showing CAD, FEA, topology optimization, additive manufacturing, and mechanical design projects.
-
-**Focus:** Portfolio, CAD/CAE, projects
-
-</td>
-<td width="50%">
-
-### [Images](https://github.com/aadi1307/Images)
-
-Image assets used for portfolio and GitHub profile visualization.
-
-**Focus:** Project visuals, CAD/CAE images
-
-</td>
-</tr>
-</table>
+| Area | What I Work On |
+|---|---|
+| CAD Mechanical Design | Parametric modeling, assemblies, surfacing, GD&T, design validation |
+| Computational Geometry | Polygon algorithms, curves, surfaces, mesh generation, STL processing |
+| Additive Manufacturing | Lattice structures, topology optimization, lightweight structures, DfAM |
+| FEA / CAE | Structural analysis, thermal analysis, electrostatics, solver development |
+| CAD/CAE Software | C++, Python, CUDA, geometry processing, simulation automation |
 
 ---
 
@@ -219,13 +162,10 @@ I work on topology optimization workflows that connect density-based optimizatio
 
 ---
 
-## Current Direction
+## Contact
 
-I am focused on building strong engineering software at the intersection of:
-
-```text
-CAD Mechanical Design
-+ Computational Geometry
-+ FEA / CAE
-+ Additive Manufacturing
-+ High-Performance Computing
+<p align="center">
+  <a href="https://aadi1307.github.io/">Portfolio Website</a> |
+  <a href="https://www.linkedin.com/in/aditya-aher-6aa497196">LinkedIn</a> |
+  <a href="mailto:aheraditya1307@gmail.com">Email</a>
+</p>
