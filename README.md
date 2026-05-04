@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya Aher</h1>
 
 <p align="center">
-CAD/CAE Software Developer | Mechanical Design Engineer | Computational Geometry | FEA | Additive Manufacturing
+  <b>CAD/CAE Software Developer | Mechanical Design Engineer | Computational Geometry | FEA | Additive Manufacturing</b>
 </p>
 
 <p align="center">
@@ -15,73 +15,169 @@ CAD/CAE Software Developer | Mechanical Design Engineer | Computational Geometry
 
 ## About Me
 
-I am a Mechanical Engineer focused on **CAD/CAE software development, mechanical design, computational geometry, finite element analysis, and additive manufacturing**.
+I am a Mechanical Engineer focused on **CAD/CAE software development, mechanical design, computational geometry, finite element analysis, topology optimization, and additive manufacturing**.
 
-My work connects **parametric CAD modeling, geometric algorithms, mesh generation, topology optimization, lattice structures, STL processing, CAD recovery, and engineering simulation**. I enjoy building tools and workflows that convert engineering ideas into robust digital models, validated designs, and manufacturable geometry.
+My work connects **parametric CAD modeling, geometry algorithms, mesh generation, STL processing, lattice structures, simulation-driven design, GPU acceleration, and CAD recovery**. I enjoy building engineering tools that convert design concepts into validated, manufacturable, and simulation-ready geometry.
 
 ---
 
-## Core Focus Areas
+## Featured Repositories
 
-| Area | What I Work On |
-|---|---|
-| CAD Mechanical Design | Parametric modeling, assemblies, surfacing, GD&T, design validation |
-| Computational Geometry | Polygon algorithms, curves, surfaces, mesh generation, STL processing |
-| Additive Manufacturing | Lattice structures, topology optimization, lightweight structures, DfAM |
-| FEA / CAE | Structural analysis, thermal analysis, electrostatics, solver development |
-| CAD/CAE Software | C++, Python, CUDA, geometry processing, simulation automation |
+<table>
+<tr>
+<td width="50%">
+
+### [Finite Element Analysis](https://github.com/aadi1307/Finite-Element-Analysis)
+
+FEA implementation, stiffness matrix assembly, boundary conditions, structural analysis, and simulation fundamentals.
+
+**Focus:** FEA, Python, solvers, engineering simulation
+
+</td>
+<td width="50%">
+
+### [Computer Aided Geometric Design](https://github.com/aadi1307/Computer-Aided-Geometric-Design)
+
+Computational geometry and CAD-related work involving curves, surfaces, B-splines, NURBS, and geometric algorithms.
+
+**Focus:** CAD, geometry, curves, surfaces
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### [GPU Lattice](https://github.com/aadi1307/GPU_Lattice)
+
+CUDA-based lattice generation for additive manufacturing and lightweight geometry creation.
+
+**Focus:** CUDA, C++, lattice structures, AM
+
+</td>
+<td width="50%">
+
+### [High Performance Computing](https://github.com/aadi1307/High-Performance-Computing)
+
+Parallel programming and performance-focused engineering computation.
+
+**Focus:** C++, CUDA, HPC, optimization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### [Engineering Portfolio](https://github.com/aadi1307/aadi1307.github.io)
+
+Portfolio website showing CAD, FEA, topology optimization, additive manufacturing, and mechanical design projects.
+
+**Focus:** Portfolio, CAD/CAE, projects
+
+</td>
+<td width="50%">
+
+### [Images](https://github.com/aadi1307/Images)
+
+Image assets used for portfolio and GitHub profile visualization.
+
+**Focus:** Project visuals, CAD/CAE images
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## CAD Mechanical Design
 
-I have worked on mechanical design projects involving vehicle systems, drivetrain components, chassis structures, brake systems, hubs, engine mounts, gearbox brackets, and complex CAD assemblies.
+<img src="https://github.com/aadi1307/Images/blob/main/offroad-vehicle.png?raw=true" width="850">
 
-**Tools:** Siemens NX, SolidWorks, CATIA V5, CREO  
-**Skills:** Parametric Modeling, Assembly Design, Surface Modeling, GD&T, DFM, DFA
+I have worked on mechanical design projects involving vehicle systems, drivetrain components, chassis structures, brake systems, hubs, wishbones, gearbox assemblies, and structural components.
+
+<p align="center">
+  <img src="https://github.com/aadi1307/Images/blob/main/gearbox-assembly.png?raw=true" width="48%">
+  <img src="https://github.com/aadi1307/Images/blob/main/front-hub.png?raw=true" width="48%">
+</p>
+
+**CAD Mechanical Design Experience**
+- Parametric part and assembly modeling
+- Vehicle chassis, drivetrain, hubs, suspension, and brake components
+- GD&T, engineering drawings, DFM, DFA, and design validation
+- CAD model preparation for manufacturing and simulation
+
+**Tools:** Siemens NX, SolidWorks, CATIA V5, CREO
 
 ---
 
 ## Additive Manufacturing and Lattice Design
 
-I have worked on additive manufacturing workflows involving lattice modeling, lightweight structures, topology optimization, and GPU-accelerated geometry generation.
+<img src="https://github.com/aadi1307/Images/blob/main/FourHoleBracket_AM.jpeg?raw=true" width="850">
 
-**Key Work:**
+I have worked on additive manufacturing workflows involving topology optimization, lattice design, lightweight structures, 3D printing preparation, and GPU-accelerated lattice generation.
+
+<p align="center">
+  <img src="https://github.com/aadi1307/Images/blob/main/Knuckle_TO_AM.jpeg?raw=true" width="48%">
+  <img src="https://github.com/aadi1307/Images/blob/main/Torque_Plate_AM.jpeg?raw=true" width="48%">
+</p>
+
+**Additive Manufacturing Focus**
 - Design for additive manufacturing
 - Lattice structure generation
 - Lightweight mechanical design
-- CUDA-based lattice generation
-- CAD model preparation for 3D printing
+- Topology optimization for manufacturable parts
+- CUDA-based geometry generation for lattice structures
+
+**Keywords:** Additive Manufacturing, Lattice Structures, DfAM, CUDA, Lightweight Design, 3D Printing
 
 ---
 
 ## Computational Geometry and Mesh Processing
 
-My work includes geometric algorithms and mesh-processing workflows used in CAD, CAE, meshing, topology optimization, and design automation.
+<img src="https://github.com/aadi1307/Images/blob/main/RecoveredDesign.png?raw=true" width="850">
 
-**Topics:**
-- Point-in-polygon
+My computational geometry work focuses on algorithms and workflows used in CAD, meshing, STL processing, topology recovery, and simulation-ready geometry preparation.
+
+<p align="center">
+  <img src="https://github.com/aadi1307/Images/blob/main/RecoveredDesign2.png?raw=true" width="48%">
+  <img src="https://github.com/aadi1307/Images/blob/main/Neural_Network.png?raw=true" width="48%">
+</p>
+
+**Geometry Topics**
+- Polygon algorithms
 - Segment intersection
+- Point-in-polygon
 - Sweep-line algorithms
-- Bounding boxes and spatial search
 - Curves, B-splines, and NURBS
-- STL processing and repair
-- Mesh generation and geometry cleanup
+- STL repair and mesh cleanup
+- Isosurface extraction
+- CAD recovery from topology-optimized geometry
 - Voronoi-based geometry processing
+
+**Languages and Libraries:** C++, Python, VTK, PyVista, OpenCascade
 
 ---
 
-## Finite Element Analysis and Design Validation
+## FEA / CAE and Design Validation
 
-I have experience with simulation-driven design validation using structural, thermal, and electrostatic finite element analysis.
+<img src="https://github.com/aadi1307/Images/blob/main/Von-Mises-Stress.png?raw=true" width="850">
 
-**Experience:**
+I use finite element analysis for simulation-driven design validation, stress analysis, deformation studies, mesh convergence, and structural optimization.
+
+<p align="center">
+  <img src="https://github.com/aadi1307/Images/blob/main/Brake_FEA.png?raw=true" width="48%">
+  <img src="https://github.com/aadi1307/Images/blob/main/Safety-Factor.png?raw=true" width="48%">
+</p>
+
+**FEA / CAE Experience**
 - Static structural analysis
 - Thermal analysis
 - Electrostatic analysis
 - Stress and deformation evaluation
 - Mesh convergence studies
-- Design optimization using FEA results
+- Structural design validation
+- Solver development fundamentals
 
 **Tools:** ANSYS, Abaqus, Simcenter 3D, NX Nastran, FEMAP
 
@@ -89,49 +185,23 @@ I have experience with simulation-driven design validation using structural, the
 
 ## Topology Optimization and CAD Recovery
 
-I work on topology optimization workflows that connect density-based optimization, STL extraction, geometry post-processing, and CAD reconstruction.
+<img src="https://github.com/aadi1307/Images/blob/main/TopologyOptimizationSIMP.png?raw=true" width="850">
 
-**Focus Areas:**
+I work on topology optimization workflows that connect density-based optimization, FEA validation, STL extraction, geometry post-processing, and CAD reconstruction.
+
+<p align="center">
+  <img src="https://github.com/aadi1307/Images/blob/main/Brake-Pedal.png?raw=true" width="48%">
+  <img src="https://github.com/aadi1307/Images/blob/main/TO_Design_Validation.png?raw=true" width="48%">
+</p>
+
+**Topology Optimization Focus**
 - SIMP-based topology optimization
 - Level-set optimization concepts
 - Density field post-processing
 - Isosurface extraction
-- STL recovery and smoothing
+- STL smoothing and repair
 - CAD reconstruction from optimized geometry
-
----
-
-## Featured Projects
-
-### GPU-Accelerated Lattice Generation
-
-CUDA-based lattice generation for additive manufacturing applications, focusing on faster unit-cell generation, vertex processing, beam connectivity, and export-ready geometry.
-
-**Skills:** CUDA, C++, GPU Computing, Lattice Structures, Additive Manufacturing
-
----
-
-### CAD/CAE Geometry Processing
-
-Geometry-processing workflows for STL repair, mesh cleanup, topology recovery, and simulation-ready model preparation.
-
-**Skills:** Python, VTK, PyVista, OpenCascade, STL, STEP, Mesh Processing
-
----
-
-### Finite Element Solver Development
-
-Finite element analysis implementation involving element stiffness matrices, global stiffness assembly, boundary conditions, sparse solvers, and post-processing.
-
-**Skills:** Python, C++, Eigen, Sparse Solvers, Structural FEA
-
----
-
-### Computational Geometry Algorithms
-
-Implementation and study of geometry algorithms used in CAD, meshing, and EDA-style design rule checking.
-
-**Topics:** Point-in-polygon, segment intersection, convex hull, sweep line, interval handling, polygon area, spatial data structures
+- Manufacturable design recovery
 
 ---
 
@@ -141,11 +211,11 @@ Implementation and study of geometry algorithms used in CAD, meshing, and EDA-st
 |---|---|
 | Programming | C++, Python, CUDA, MATLAB |
 | CAD | Siemens NX, SolidWorks, CATIA V5, CREO |
-| CAE | ANSYS, Abaqus, Simcenter 3D, NX Nastran, FEMAP |
-| Geometry | Computational Geometry, STL, STEP, Mesh Generation, NURBS, Voronoi |
-| Additive Manufacturing | Lattice Design, DfAM, 3D Printing, Topology Optimization |
+| CAE / FEA | ANSYS, Abaqus, Simcenter 3D, NX Nastran, FEMAP |
+| Computational Geometry | Curves, surfaces, NURBS, polygon algorithms, mesh generation, STL processing |
+| Additive Manufacturing | Lattice design, DfAM, 3D printing, topology optimization |
 | Libraries | Eigen, VTK, PyVista, OpenCascade, CuPy, PyTorch |
-| Engineering | GD&T, DFM, DFA, Structural Design, Thermal Design |
+| Engineering | GD&T, DFM, DFA, structural design, thermal design, simulation validation |
 
 ---
 
@@ -154,7 +224,7 @@ Implementation and study of geometry algorithms used in CAD, meshing, and EDA-st
 I am focused on building strong engineering software at the intersection of:
 
 ```text
-Mechanical Design
+CAD Mechanical Design
 + Computational Geometry
 + FEA / CAE
 + Additive Manufacturing
